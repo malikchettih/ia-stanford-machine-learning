@@ -2,4 +2,4 @@
 Stanford Machine Learning Course on coursera https://www.coursera.org/learn/machine-learning/home/welcome
 
 ## Notes
-- [Week 1](Week-1/Notes-Weef-1.md)
+- [Week 1](Week-1/Notes-Week-1.md)
