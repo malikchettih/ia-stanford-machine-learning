@@ -44,3 +44,7 @@ With unsupervised learning there is no feedback based on the prediction results.
 
 ### Lectures:
 - [Introduction](Week1_Lecture1.pdf)
+
+<object data="Week1_Lecture1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Week1_Lecture1.pdf"/>
+</object>
