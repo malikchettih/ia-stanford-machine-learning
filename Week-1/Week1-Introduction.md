@@ -50,3 +50,9 @@ With unsupervised learning there is no feedback based on the prediction results.
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Week1_Lecture1.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+<div id="pdf">
+   <iframe src="Week1_Lecture1.pdf" style="width: 100%; height: 100%;" frameborder="0" scrolling="no">
+        <p>It appears your web browser doesn't support iframes.</p>
+   </iframe>
+</div>
