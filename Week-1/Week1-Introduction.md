@@ -46,5 +46,7 @@ With unsupervised learning there is no feedback based on the prediction results.
 - [Introduction](Week1_Lecture1.pdf)
 
 <object data="Week1_Lecture1.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="Week1_Lecture1.pdf"/>
+    <embed src="Week1_Lecture1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Week1_Lecture1.pdf">Download PDF</a>.</p>
+    </embed>
 </object>
