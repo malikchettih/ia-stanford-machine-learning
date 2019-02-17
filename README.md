@@ -22,3 +22,7 @@ Stanford Machine Learning Course on coursera https://www.coursera.org/learn/mach
 - [Normal Equation, Non Invertibility](Week2/Week2-NormalEquationNoninvertibility.md)
 
 - [Lecture 4](Week-2/Week2-Lecture4.pdf)
+- [Lecture 5](Week-2/Week2-Lecture5.pdf)
+
+- [machine-learning-ex1/computeCost.m] (Week-2/machine-learning-ex1/ex1/computeCost.m)
+- [machine-learning-ex1/gradientDescent.m] (Week-2/machine-learning-ex1/ex1/gradientDescent.m)
