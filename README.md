@@ -16,10 +16,11 @@ Stanford Machine Learning Course on coursera https://www.coursera.org/learn/mach
 
 ### Week 2
 
-- [Multivariate Linear Regression](Week2/Week-2-MultivariateLinearRegression.md)
-- [Computing Parameters Analytically](Week2/Week2-ComputingParametersAnalytically.md)
-- [Normal Equation](Week2/Week2-NormalEquation.md)
-- [Normal Equation, Non Invertibility](Week2/Week2-NormalEquationNoninvertibility.md)
+- [Multivariate Linear Regression](Week-2/Week2-MultivariateLinearRegression.md)
+- [Computing Parameters Analytically](Week-2/Week2-ComputingParametersAnalytically.md)
+- [Normal Equation](Week-2/Week2-NormalEquation.md)
+- [Normal Equation, Non Invertibility](Week-2/Week2-NormalEquationNoninvertibility.md)
+- [Octave Matlab Tutorials](Week-2/Week2-OctaveMatlabTutorial.md)
 
 - [Lecture 4](Week-2/Week2-Lecture4.pdf)
 - [Lecture 5](Week-2/Week2-Lecture5.pdf)
