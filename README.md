@@ -1,9 +1,7 @@
 # stanford-machine-learning
 Stanford Machine Learning Course on coursera https://www.coursera.org/learn/machine-learning/home/welcome
 
-## Notes
-
-### Week 1
+## Week 1
 
 - [Introduction](Week-1/Week1-Introduction.md)
 - [Model and Cost Function](Week-1/Week1-ModelAndCostFunction.md)
@@ -14,7 +12,7 @@ Stanford Machine Learning Course on coursera https://www.coursera.org/learn/mach
 - [Lecture 2](Week-1/Week1-Lecture2.pdf)
 - [Lecture 3](Week-1/Week1-Lecture3.pdf)
 
-### Week 2
+## Week 2
 
 - [Multivariate Linear Regression](Week-2/Week2-MultivariateLinearRegression.md)
 - [Computing Parameters Analytically](Week-2/Week2-ComputingParametersAnalytically.md)
@@ -27,3 +25,10 @@ Stanford Machine Learning Course on coursera https://www.coursera.org/learn/mach
 
 - [machine-learning-ex1 computeCost.m](Week-2/machine-learning-ex1/ex1/computeCost.m)
 - [machine-learning-ex1 gradientDescent.m](Week-2/machine-learning-ex1/ex1/gradientDescent.m)
+
+## Week 3
+
+- [Classification And Representation](Week-3/Week3-ClassificationAndRepresentation.md)
+- [Logistic Regression Model](Week-3/Week3-LogisticRegressionModel.md)
+- [Multi Class Classification](Week-3/Week3-MulticlassClassification.md)
+- [Solving The Problem Of Overfitting](Week-3/Week3-SolvingTheProblemOfOverfitting.md)
