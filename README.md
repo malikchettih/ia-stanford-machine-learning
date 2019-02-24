@@ -28,5 +28,8 @@ Stanford Machine Learning Course on coursera https://www.coursera.org/learn/mach
 - [Classification And Representation](Week-3/Week3-ClassificationAndRepresentation.md)
 - [Logistic Regression Model](Week-3/Week3-LogisticRegressionModel.md)
 - [Multi Class Classification](Week-3/Week3-MulticlassClassification.md)
-- [Solving The Problem Of Overfitting](Week-3/Week3-SolvingTheProblemOfOverfitting.md)
 - [Lecture 6](Week-3/Week3-Lecture6.pdf)
+- [Solving The Problem Of Overfitting](Week-3/Week3-SolvingTheProblemOfOverfitting.md)
+- [Lecture 7](Week-3/Week3-Lecture7.pdf)
+
+## Week 4
