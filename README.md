@@ -33,3 +33,14 @@ Stanford Machine Learning Course on coursera https://www.coursera.org/learn/mach
 - [Lecture 7](Week-3/Week3-Lecture7.pdf)
 
 ## Week 4
+
+- [Neural Networks](Week-4/Week4-NeuralNetworks.md)
+- [Applications](Week-4/Week4-Applications.md)
+- [Lecture 8](Week-4/Week4-Lecture8.pdf)
+
+## Week 5
+
+- [Cost Function And Propagation](Week-5/Week5-CostFunctionAndPropagation.md)
+- [Propagation In Practice](Week-5/Week5-PropagationInPractice.md)
+- [Application Of Neuronal Networks](Week-5/Week5-ApplicationOfNeuronalNetworks.md)
+- [Lecture 9](Week-5/Week5-Lecture9.pdf)
