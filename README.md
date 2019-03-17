@@ -46,3 +46,12 @@ Notes - http://www.holehouse.org/mlclass/index.html
 - [Propagation In Practice](Week-5/Week5-PropagationInPractice.md)
 - [Application Of Neuronal Networks](Week-5/Week5-ApplicationOfNeuronalNetworks.md)
 - [Lecture 9](Week-5/Week5-Lecture9.pdf)
+
+## Week 6
+
+- [Evaluating ALearning Algorithm](Week-6/Week6-EvaluatingALearningAlgorithm.md)
+- [Bias Vs Variance](Week-6/Week6-BiasVsVariance.md)
+- [Building A Spam Classifier](Week-6/Week6-BuildingASpamClassifier.md)
+- [Handling Skewed Data](Week-6/Week6-HandlingSkewedData.md)
+- [Using Large Data Set](Week-6/Week6-UsingLargeDataSet.md)
+

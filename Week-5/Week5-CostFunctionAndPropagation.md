@@ -11,6 +11,6 @@
 ![Backpropagation Algorithm](Week5-006.JPG)
 
 ## Backpropagation Intuition
-
 ![Backpropagation Intuition](Week5-007.JPG)
 ![Backpropagation Intuition](Week5-008.JPG)
+
