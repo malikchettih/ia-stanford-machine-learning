@@ -11,4 +11,9 @@
 ![Learning Curves](Week6-007.JPG)
 ![Learning Curves](Week6-008.JPG)
 
+## Deciding What to Do Next Revisited
+![Deciding What to Do Next Revisited](Week6-009.JPG)
+![Deciding What to Do Next Revisited](Week6-010.JPG)
+
+
 
